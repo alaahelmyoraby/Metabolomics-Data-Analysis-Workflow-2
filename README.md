@@ -329,7 +329,5 @@ write.csv(overlapping, "liver_cancer_normal_LIMMA_adj_0.05_1.csv")
 
 ---
 
-### **Key Notes**
-1. **No changes were made to the original code.**
-2. **Comments were added to explain each step and its purpose.**
-3. Ensure all required input files are in the correct paths before running the script.
+### ** Thanks! **
+
