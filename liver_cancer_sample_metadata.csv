@@ -1,0 +1,101 @@
+Sample_ID,Gender,Group,Stage
+Sample_1,Male,Cancer,Stage III
+Sample_2,Female,Cancer,Stage II
+Sample_3,Male,Cancer,Stage II
+Sample_4,Male,Cancer,Stage IV
+Sample_5,Male,Cancer,Stage II
+Sample_6,Female,Cancer,Stage II
+Sample_7,Male,Cancer,Stage II
+Sample_8,Male,Cancer,Stage IV
+Sample_9,Male,Cancer,Stage II
+Sample_10,Female,Cancer,Stage III
+Sample_11,Male,Cancer,Stage IV
+Sample_12,Male,Cancer,Stage III
+Sample_13,Male,Cancer,Stage IV
+Sample_14,Male,Cancer,Stage II
+Sample_15,Female,Cancer,Stage III
+Sample_16,Male,Cancer,Stage IV
+Sample_17,Female,Cancer,Stage I
+Sample_18,Female,Cancer,Stage II
+Sample_19,Female,Cancer,Stage IV
+Sample_20,Male,Cancer,Stage I
+Sample_21,Female,Cancer,Stage IV
+Sample_22,Male,Cancer,Stage I
+Sample_23,Female,Cancer,Stage II
+Sample_24,Female,Cancer,Stage III
+Sample_25,Female,Cancer,Stage I
+Sample_26,Female,Cancer,Stage IV
+Sample_27,Female,Cancer,Stage II
+Sample_28,Female,Cancer,Stage I
+Sample_29,Female,Cancer,Stage IV
+Sample_30,Female,Cancer,Stage IV
+Sample_31,Male,Cancer,Stage IV
+Sample_32,Male,Cancer,Stage I
+Sample_33,Female,Cancer,Stage I
+Sample_34,Female,Cancer,Stage I
+Sample_35,Female,Cancer,Stage III
+Sample_36,Male,Cancer,Stage I
+Sample_37,Female,Cancer,Stage I
+Sample_38,Male,Cancer,Stage I
+Sample_39,Male,Cancer,Stage III
+Sample_40,Male,Cancer,Stage I
+Sample_41,Male,Cancer,Stage IV
+Sample_42,Male,Cancer,Stage I
+Sample_43,Female,Cancer,Stage IV
+Sample_44,Female,Cancer,Stage IV
+Sample_45,Female,Cancer,Stage IV
+Sample_46,Female,Cancer,Stage III
+Sample_47,Female,Cancer,Stage III
+Sample_48,Male,Cancer,Stage III
+Sample_49,Female,Cancer,Stage I
+Sample_50,Female,Cancer,Stage IV
+Sample_51,Male,Healthy,Healthy
+Sample_52,Female,Healthy,Healthy
+Sample_53,Male,Healthy,Healthy
+Sample_54,Female,Healthy,Healthy
+Sample_55,Male,Healthy,Healthy
+Sample_56,Female,Healthy,Healthy
+Sample_57,Female,Healthy,Healthy
+Sample_58,Male,Healthy,Healthy
+Sample_59,Male,Healthy,Healthy
+Sample_60,Male,Healthy,Healthy
+Sample_61,Male,Healthy,Healthy
+Sample_62,Male,Healthy,Healthy
+Sample_63,Male,Healthy,Healthy
+Sample_64,Male,Healthy,Healthy
+Sample_65,Male,Healthy,Healthy
+Sample_66,Female,Healthy,Healthy
+Sample_67,Female,Healthy,Healthy
+Sample_68,Male,Healthy,Healthy
+Sample_69,Female,Healthy,Healthy
+Sample_70,Female,Healthy,Healthy
+Sample_71,Female,Healthy,Healthy
+Sample_72,Female,Healthy,Healthy
+Sample_73,Male,Healthy,Healthy
+Sample_74,Female,Healthy,Healthy
+Sample_75,Male,Healthy,Healthy
+Sample_76,Female,Healthy,Healthy
+Sample_77,Female,Healthy,Healthy
+Sample_78,Female,Healthy,Healthy
+Sample_79,Male,Healthy,Healthy
+Sample_80,Female,Healthy,Healthy
+Sample_81,Male,Healthy,Healthy
+Sample_82,Female,Healthy,Healthy
+Sample_83,Male,Healthy,Healthy
+Sample_84,Female,Healthy,Healthy
+Sample_85,Male,Healthy,Healthy
+Sample_86,Male,Healthy,Healthy
+Sample_87,Female,Healthy,Healthy
+Sample_88,Male,Healthy,Healthy
+Sample_89,Female,Healthy,Healthy
+Sample_90,Female,Healthy,Healthy
+Sample_91,Female,Healthy,Healthy
+Sample_92,Female,Healthy,Healthy
+Sample_93,Female,Healthy,Healthy
+Sample_94,Female,Healthy,Healthy
+Sample_95,Female,Healthy,Healthy
+Sample_96,Female,Healthy,Healthy
+Sample_97,Female,Healthy,Healthy
+Sample_98,Female,Healthy,Healthy
+Sample_99,Female,Healthy,Healthy
+Sample_100,Male,Healthy,Healthy

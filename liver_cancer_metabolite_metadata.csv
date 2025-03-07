@@ -1,0 +1,201 @@
+Feature_ID,BIOCHEMICAL,Chemical_Class,Biological_Role,Concentration_Range,Distribution
+Metabolite_1,Glutamine,Carbohydrate,Oxidative stress,Moderate: 1.0-100.0,Log-Normal
+Metabolite_2,Glycine,Carbohydrate,Energy metabolism,Moderate: 1.0-100.0,Bimodal
+Metabolite_3,Serine,Amino Acid,Energy metabolism,Low: 0.001-1.0,Normal
+Metabolite_4,Alanine,Carbohydrate,Lipid metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_5,Valine,Amino Acid,Energy metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_6,Leucine,Lipid,Amino acid metabolism,Moderate: 1.0-100.0,Bimodal
+Metabolite_7,Isoleucine,Carbohydrate,Oxidative stress,Moderate: 1.0-100.0,Bimodal
+Metabolite_8,Methionine,Lipid,Energy metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_9,Phenylalanine,Amino Acid,Energy metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_10,Tyrosine,Other Small Molecule,Lipid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_11,Tryptophan,Carbohydrate,Lipid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_12,Histidine,Amino Acid,Amino acid metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_13,Threonine,Other Small Molecule,Oxidative stress,"High: 100.0-10,000.0",Bimodal
+Metabolite_14,Cysteine,Other Small Molecule,Lipid metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_15,Arginine,Lipid,Energy metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_16,Lysine,Amino Acid,Oxidative stress,"High: 100.0-10,000.0",Log-Normal
+Metabolite_17,Proline,Other Small Molecule,Oxidative stress,Moderate: 1.0-100.0,Log-Normal
+Metabolite_18,Ornithine,Carbohydrate,Energy metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_19,Hydroxyproline,Carbohydrate,Lipid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_20,Taurine,Lipid,Energy metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_21,Phosphatidylcholine,Other Small Molecule,Oxidative stress,Low: 0.001-1.0,Log-Normal
+Metabolite_22,Phosphatidylethanolamine,Amino Acid,Signaling,"High: 100.0-10,000.0",Log-Normal
+Metabolite_23,Sphingomyelin,Carbohydrate,Signaling,"High: 100.0-10,000.0",Normal
+Metabolite_24,Ceramide,Other Small Molecule,Amino acid metabolism,Low: 0.001-1.0,Normal
+Metabolite_25,Dihydroceramide,Other Small Molecule,Energy metabolism,"High: 100.0-10,000.0",Bimodal
+Metabolite_26,Lysophosphatidylcholine,Lipid,Energy metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_27,Lysophosphatidylethanolamine,Carbohydrate,Amino acid metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_28,Triglyceride,Carbohydrate,Amino acid metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_29,Cholesterol,Amino Acid,Amino acid metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_30,Cholesteryl Ester,Carbohydrate,Oxidative stress,Low: 0.001-1.0,Normal
+Metabolite_31,Oleic Acid,Amino Acid,Energy metabolism,Low: 0.001-1.0,Normal
+Metabolite_32,Linoleic Acid,Carbohydrate,Oxidative stress,"High: 100.0-10,000.0",Normal
+Metabolite_33,Arachidonic Acid,Lipid,Amino acid metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_34,Eicosapentaenoic Acid,Carbohydrate,Energy metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_35,Docosahexaenoic Acid,Amino Acid,Oxidative stress,Low: 0.001-1.0,Log-Normal
+Metabolite_36,Stearic Acid,Amino Acid,Oxidative stress,"High: 100.0-10,000.0",Bimodal
+Metabolite_37,Palmitic Acid,Lipid,Amino acid metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_38,Myristic Acid,Carbohydrate,Energy metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_39,Lauric Acid,Carbohydrate,Amino acid metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_40,Capric Acid,Lipid,Energy metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_41,Glucose,Carbohydrate,Signaling,Moderate: 1.0-100.0,Normal
+Metabolite_42,Fructose,Carbohydrate,Lipid metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_43,Lactose,Amino Acid,Lipid metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_44,Sucrose,Carbohydrate,Lipid metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_45,Maltose,Carbohydrate,Amino acid metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_46,Galactose,Lipid,Signaling,Moderate: 1.0-100.0,Log-Normal
+Metabolite_47,Mannose,Lipid,Energy metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_48,Trehalose,Other Small Molecule,Oxidative stress,"High: 100.0-10,000.0",Bimodal
+Metabolite_49,Dihydroxyacetone phosphate,Amino Acid,Energy metabolism,Low: 0.001-1.0,Normal
+Metabolite_50,"Fructose 1,6-bisphosphate",Carbohydrate,Oxidative stress,"High: 100.0-10,000.0",Normal
+Metabolite_51,Ribose,Carbohydrate,Energy metabolism,Moderate: 1.0-100.0,Bimodal
+Metabolite_52,Xylose,Other Small Molecule,Signaling,Low: 0.001-1.0,Normal
+Metabolite_53,Sorbitol,Carbohydrate,Oxidative stress,Moderate: 1.0-100.0,Log-Normal
+Metabolite_54,Myo-Inositol,Amino Acid,Amino acid metabolism,Low: 0.001-1.0,Normal
+Metabolite_55,Glucose-6-phosphate,Other Small Molecule,Energy metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_56,Glycerol,Amino Acid,Energy metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_57,Pyruvate,Other Small Molecule,Oxidative stress,Low: 0.001-1.0,Normal
+Metabolite_58,Lactate,Other Small Molecule,Amino acid metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_59,Citrate,Lipid,Amino acid metabolism,Low: 0.001-1.0,Normal
+Metabolite_60,Succinate,Amino Acid,Signaling,Low: 0.001-1.0,Log-Normal
+Metabolite_61,Fumarate,Carbohydrate,Amino acid metabolism,Moderate: 1.0-100.0,Bimodal
+Metabolite_62,Malate,Carbohydrate,Amino acid metabolism,Low: 0.001-1.0,Normal
+Metabolite_63,Oxaloacetate,Amino Acid,Amino acid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_64,α-Ketoglutarate,Carbohydrate,Lipid metabolism,"High: 100.0-10,000.0",Bimodal
+Metabolite_65,Acetyl-CoA,Carbohydrate,Signaling,Low: 0.001-1.0,Bimodal
+Metabolite_66,Succinyl-CoA,Amino Acid,Energy metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_67,NAD+,Other Small Molecule,Oxidative stress,Moderate: 1.0-100.0,Normal
+Metabolite_68,FAD,Amino Acid,Energy metabolism,Low: 0.001-1.0,Normal
+Metabolite_69,Coenzyme Q10,Other Small Molecule,Signaling,"High: 100.0-10,000.0",Log-Normal
+Metabolite_70,Adenosine,Carbohydrate,Oxidative stress,"High: 100.0-10,000.0",Normal
+Metabolite_71,Guanosine,Carbohydrate,Signaling,Moderate: 1.0-100.0,Bimodal
+Metabolite_72,Cytidine,Carbohydrate,Amino acid metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_73,Uridine,Lipid,Oxidative stress,Low: 0.001-1.0,Normal
+Metabolite_74,Thymidine,Other Small Molecule,Amino acid metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_75,Hypoxanthine,Lipid,Energy metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_76,Xanthine,Lipid,Energy metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_77,Uric Acid,Amino Acid,Oxidative stress,Low: 0.001-1.0,Normal
+Metabolite_78,SAM,Lipid,Oxidative stress,"High: 100.0-10,000.0",Normal
+Metabolite_79,SAH,Amino Acid,Signaling,Low: 0.001-1.0,Bimodal
+Metabolite_80,NADP+,Amino Acid,Signaling,Moderate: 1.0-100.0,Normal
+Metabolite_81,Dopamine,Lipid,Amino acid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_82,Serotonin,Other Small Molecule,Oxidative stress,Low: 0.001-1.0,Bimodal
+Metabolite_83,Norepinephrine,Other Small Molecule,Energy metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_84,Epinephrine,Other Small Molecule,Signaling,Low: 0.001-1.0,Bimodal
+Metabolite_85,Histamine,Other Small Molecule,Signaling,Moderate: 1.0-100.0,Normal
+Metabolite_86,Putrescine,Other Small Molecule,Energy metabolism,Low: 0.001-1.0,Normal
+Metabolite_87,Cadaverine,Lipid,Signaling,"High: 100.0-10,000.0",Normal
+Metabolite_88,Spermidine,Lipid,Amino acid metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_89,Spermine,Carbohydrate,Oxidative stress,Low: 0.001-1.0,Log-Normal
+Metabolite_90,Betaine,Other Small Molecule,Energy metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_91,Carnitine,Lipid,Oxidative stress,Low: 0.001-1.0,Normal
+Metabolite_92,Acetylcarnitine,Carbohydrate,Signaling,"High: 100.0-10,000.0",Normal
+Metabolite_93,Ethanolamine,Other Small Molecule,Signaling,Low: 0.001-1.0,Log-Normal
+Metabolite_94,Gamma-Aminobutyric Acid,Amino Acid,Energy metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_95,Glutathione (Reduced),Carbohydrate,Amino acid metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_96,Glutathione (Oxidized),Lipid,Lipid metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_97,Ascorbate,Amino Acid,Energy metabolism,"High: 100.0-10,000.0",Bimodal
+Metabolite_98,Vitamin D3,Amino Acid,Lipid metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_99,Retinol,Amino Acid,Lipid metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_100,Cortisol,Carbohydrate,Amino acid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_101,Testosterone,Lipid,Lipid metabolism,Low: 0.001-1.0,Normal
+Metabolite_102,Estradiol,Amino Acid,Lipid metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_103,Biliverdin,Other Small Molecule,Amino acid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_104,Bilirubin,Amino Acid,Lipid metabolism,"High: 100.0-10,000.0",Bimodal
+Metabolite_105,Heme,Amino Acid,Lipid metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_106,Hippuric Acid,Carbohydrate,Lipid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_107,Phenylacetylglutamine,Carbohydrate,Energy metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_108,Trimethylamine N-Oxide,Lipid,Energy metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_109,p-Cresol Sulfate,Other Small Molecule,Energy metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_110,Indoxyl Sulfate,Carbohydrate,Amino acid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_111,Acetate,Amino Acid,Signaling,Low: 0.001-1.0,Bimodal
+Metabolite_112,Propionate,Lipid,Lipid metabolism,Moderate: 1.0-100.0,Bimodal
+Metabolite_113,Butyrate,Amino Acid,Lipid metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_114,Isobutyrate,Amino Acid,Amino acid metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_115,Valerate,Carbohydrate,Lipid metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_116,Isovalerate,Lipid,Energy metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_117,Glutamine,Other Small Molecule,Signaling,Moderate: 1.0-100.0,Log-Normal
+Metabolite_118,Glycine,Other Small Molecule,Oxidative stress,Low: 0.001-1.0,Log-Normal
+Metabolite_119,Serine,Carbohydrate,Lipid metabolism,"High: 100.0-10,000.0",Bimodal
+Metabolite_120,Alanine,Carbohydrate,Energy metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_121,Valine,Lipid,Oxidative stress,Low: 0.001-1.0,Normal
+Metabolite_122,Leucine,Other Small Molecule,Signaling,"High: 100.0-10,000.0",Bimodal
+Metabolite_123,Isoleucine,Other Small Molecule,Oxidative stress,"High: 100.0-10,000.0",Bimodal
+Metabolite_124,Methionine,Other Small Molecule,Energy metabolism,Moderate: 1.0-100.0,Bimodal
+Metabolite_125,Phenylalanine,Amino Acid,Oxidative stress,"High: 100.0-10,000.0",Bimodal
+Metabolite_126,Tyrosine,Other Small Molecule,Amino acid metabolism,Low: 0.001-1.0,Normal
+Metabolite_127,Tryptophan,Amino Acid,Oxidative stress,Moderate: 1.0-100.0,Normal
+Metabolite_128,Histidine,Lipid,Lipid metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_129,Threonine,Amino Acid,Lipid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_130,Cysteine,Lipid,Amino acid metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_131,Arginine,Other Small Molecule,Energy metabolism,Moderate: 1.0-100.0,Bimodal
+Metabolite_132,Lysine,Other Small Molecule,Lipid metabolism,"High: 100.0-10,000.0",Bimodal
+Metabolite_133,Proline,Lipid,Signaling,Moderate: 1.0-100.0,Log-Normal
+Metabolite_134,Ornithine,Carbohydrate,Lipid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_135,Hydroxyproline,Lipid,Lipid metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_136,Taurine,Carbohydrate,Energy metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_137,Phosphatidylcholine,Amino Acid,Oxidative stress,Moderate: 1.0-100.0,Log-Normal
+Metabolite_138,Phosphatidylethanolamine,Amino Acid,Lipid metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_139,Sphingomyelin,Amino Acid,Amino acid metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_140,Ceramide,Other Small Molecule,Oxidative stress,Moderate: 1.0-100.0,Bimodal
+Metabolite_141,Dihydroceramide,Amino Acid,Signaling,Low: 0.001-1.0,Bimodal
+Metabolite_142,Lysophosphatidylcholine,Carbohydrate,Energy metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_143,Lysophosphatidylethanolamine,Amino Acid,Signaling,Low: 0.001-1.0,Bimodal
+Metabolite_144,Triglyceride,Lipid,Oxidative stress,Moderate: 1.0-100.0,Log-Normal
+Metabolite_145,Cholesterol,Lipid,Oxidative stress,"High: 100.0-10,000.0",Normal
+Metabolite_146,Cholesteryl Ester,Other Small Molecule,Oxidative stress,Low: 0.001-1.0,Log-Normal
+Metabolite_147,Oleic Acid,Lipid,Signaling,Low: 0.001-1.0,Normal
+Metabolite_148,Linoleic Acid,Carbohydrate,Oxidative stress,Moderate: 1.0-100.0,Bimodal
+Metabolite_149,Arachidonic Acid,Amino Acid,Signaling,Low: 0.001-1.0,Log-Normal
+Metabolite_150,Eicosapentaenoic Acid,Other Small Molecule,Oxidative stress,"High: 100.0-10,000.0",Bimodal
+Metabolite_151,Docosahexaenoic Acid,Amino Acid,Amino acid metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_152,Stearic Acid,Amino Acid,Oxidative stress,Low: 0.001-1.0,Bimodal
+Metabolite_153,Palmitic Acid,Carbohydrate,Signaling,Low: 0.001-1.0,Normal
+Metabolite_154,Myristic Acid,Lipid,Lipid metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_155,Lauric Acid,Lipid,Oxidative stress,"High: 100.0-10,000.0",Normal
+Metabolite_156,Capric Acid,Amino Acid,Lipid metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_157,Glucose,Other Small Molecule,Amino acid metabolism,Low: 0.001-1.0,Normal
+Metabolite_158,Fructose,Lipid,Energy metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_159,Lactose,Other Small Molecule,Amino acid metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_160,Sucrose,Lipid,Oxidative stress,"High: 100.0-10,000.0",Normal
+Metabolite_161,Maltose,Other Small Molecule,Lipid metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_162,Galactose,Carbohydrate,Lipid metabolism,Moderate: 1.0-100.0,Log-Normal
+Metabolite_163,Mannose,Other Small Molecule,Signaling,"High: 100.0-10,000.0",Normal
+Metabolite_164,Trehalose,Carbohydrate,Lipid metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_165,Dihydroxyacetone phosphate,Carbohydrate,Signaling,Moderate: 1.0-100.0,Normal
+Metabolite_166,"Fructose 1,6-bisphosphate",Other Small Molecule,Energy metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_167,Ribose,Carbohydrate,Oxidative stress,Low: 0.001-1.0,Bimodal
+Metabolite_168,Xylose,Amino Acid,Signaling,Low: 0.001-1.0,Bimodal
+Metabolite_169,Sorbitol,Carbohydrate,Energy metabolism,Moderate: 1.0-100.0,Bimodal
+Metabolite_170,Myo-Inositol,Lipid,Lipid metabolism,Moderate: 1.0-100.0,Bimodal
+Metabolite_171,Glucose-6-phosphate,Other Small Molecule,Lipid metabolism,Moderate: 1.0-100.0,Bimodal
+Metabolite_172,Glycerol,Amino Acid,Energy metabolism,Low: 0.001-1.0,Normal
+Metabolite_173,Pyruvate,Other Small Molecule,Lipid metabolism,"High: 100.0-10,000.0",Bimodal
+Metabolite_174,Lactate,Lipid,Energy metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_175,Citrate,Lipid,Signaling,"High: 100.0-10,000.0",Bimodal
+Metabolite_176,Succinate,Lipid,Signaling,Low: 0.001-1.0,Bimodal
+Metabolite_177,Fumarate,Carbohydrate,Energy metabolism,"High: 100.0-10,000.0",Log-Normal
+Metabolite_178,Malate,Carbohydrate,Signaling,Low: 0.001-1.0,Normal
+Metabolite_179,Oxaloacetate,Other Small Molecule,Signaling,Moderate: 1.0-100.0,Bimodal
+Metabolite_180,α-Ketoglutarate,Other Small Molecule,Signaling,Low: 0.001-1.0,Bimodal
+Metabolite_181,Acetyl-CoA,Amino Acid,Amino acid metabolism,"High: 100.0-10,000.0",Bimodal
+Metabolite_182,Succinyl-CoA,Amino Acid,Oxidative stress,Low: 0.001-1.0,Normal
+Metabolite_183,NAD+,Other Small Molecule,Lipid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_184,FAD,Carbohydrate,Amino acid metabolism,Low: 0.001-1.0,Normal
+Metabolite_185,Coenzyme Q10,Lipid,Signaling,Moderate: 1.0-100.0,Log-Normal
+Metabolite_186,Adenosine,Other Small Molecule,Energy metabolism,Low: 0.001-1.0,Bimodal
+Metabolite_187,Guanosine,Amino Acid,Signaling,Moderate: 1.0-100.0,Bimodal
+Metabolite_188,Cytidine,Carbohydrate,Oxidative stress,Moderate: 1.0-100.0,Normal
+Metabolite_189,Uridine,Other Small Molecule,Signaling,Low: 0.001-1.0,Normal
+Metabolite_190,Thymidine,Other Small Molecule,Energy metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_191,Hypoxanthine,Carbohydrate,Oxidative stress,Low: 0.001-1.0,Log-Normal
+Metabolite_192,Xanthine,Other Small Molecule,Signaling,"High: 100.0-10,000.0",Normal
+Metabolite_193,Uric Acid,Carbohydrate,Oxidative stress,Low: 0.001-1.0,Log-Normal
+Metabolite_194,SAM,Lipid,Lipid metabolism,Moderate: 1.0-100.0,Normal
+Metabolite_195,SAH,Carbohydrate,Lipid metabolism,Low: 0.001-1.0,Log-Normal
+Metabolite_196,NADP+,Carbohydrate,Signaling,"High: 100.0-10,000.0",Normal
+Metabolite_197,Dopamine,Carbohydrate,Oxidative stress,Low: 0.001-1.0,Normal
+Metabolite_198,Serotonin,Other Small Molecule,Energy metabolism,"High: 100.0-10,000.0",Normal
+Metabolite_199,Norepinephrine,Other Small Molecule,Signaling,"High: 100.0-10,000.0",Log-Normal
+Metabolite_200,Epinephrine,Carbohydrate,Lipid metabolism,Low: 0.001-1.0,Log-Normal
